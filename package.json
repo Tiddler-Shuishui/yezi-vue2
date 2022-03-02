@@ -1,0 +1,23 @@
+{
+  "name": "yezi-vue2",
+  "version": "0.0.1",
+  "description": "这是一个UI练习库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tiddler-Shuishui/yezi-vue2.git"
+  },
+  "keywords": [
+    "vue",
+    "ui"
+  ],
+  "author": "franklai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tiddler-Shuishui/yezi-vue2/issues"
+  },
+  "homepage": "https://github.com/Tiddler-Shuishui/yezi-vue2#readme"
+}
